@@ -8,10 +8,9 @@ def checkMasterCardNo(cardNo):
         print("Valid")
     else:
         print("Not Valid")
- 
 
 card1 = "5110762060017101"
 checkMasterCardNo(card1)
 
-card1 = "8632458236982734"
-checkMasterCardNo(card1)
+card2 = "8632458236982734"
+checkMasterCardNo(card2)
